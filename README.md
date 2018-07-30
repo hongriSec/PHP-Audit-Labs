@@ -9,6 +9,8 @@ Part1部分属于项目 **第一阶段** 的内容，本阶段的内容题目素
 * [ [红日安全]代码审计Day1 - in_array函数缺陷 ](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day1/files/README.md)
 * [ [红日安全]代码审计Day2 - filter_var函数缺陷](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day2/files/README.md)
 * [ [红日安全]代码审计Day3 - 实例化任意对象漏洞 ](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day3/files/README.md)
+* [ [红日安全]代码审计Day4 - strpos使用不当引发漏洞 ](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day4/files/README.md)
+* [ [红日安全]代码审计Day5 - escapeshellarg与escapeshellcmd使用不当 ](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day5/files/README.md)
 
 ## Part2
 
