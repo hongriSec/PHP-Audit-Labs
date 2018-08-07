@@ -11,19 +11,9 @@ Part1部分属于项目 **第一阶段** 的内容，本阶段的内容题目素
 * [ [红日安全]代码审计Day3 - 实例化任意对象漏洞 ](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day3/files/README.md)
 * [ [红日安全]代码审计Day4 - strpos使用不当引发漏洞 ](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day4/files/README.md)
 * [ [红日安全]代码审计Day5 - escapeshellarg与escapeshellcmd使用不当 ](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day5/files/README.md)
-
-## Part2
-
-* 待完善
-
-## Part3
-
-* 待完善
-
-## Part4
-
-* 待完善
+* [ [红日安全]代码审计Day6 - 正则使用不当导致的路径穿越问题 ](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day6/files/README.md)
+* [ [红日安全]代码审计Day7 - parse_str函数缺陷 ](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day7/files/README.md)
 
 ## PHP-Audit-Labs题解
 
-* 待完善
+* [ [红日安全]PHP-Audit-Labs题解之Day1-4 ](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/PHP-Audit-Labs题解/Day1-4/files/README.md)
