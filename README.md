@@ -14,6 +14,8 @@ Part1部分属于项目 **第一阶段** 的内容，本阶段的内容题目素
 * [ [红日安全]代码审计Day6 - 正则使用不当导致的路径穿越问题 ](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day6/files/README.md) 
 * [ [红日安全]代码审计Day7 - parse_str函数缺陷 ](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day7/files/README.md) 
 * [ [红日安全]代码审计Day8 - preg_replace函数之命令执行 ](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day8/files/README.md) 
+* [[红日安全]代码审计Day9 - str_replace函数过滤不当](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day9/files/README.md) 
+* [[红日安全]代码审计Day10 - 程序未恰当exit导致的问题](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day10/files/README.md) 
 
 ## PHP-Audit-Labs题解
 
