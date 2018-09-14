@@ -16,6 +16,7 @@ Part1部分属于项目 **第一阶段** 的内容，本阶段的内容题目素
 * [ [红日安全]代码审计Day8 - preg_replace函数之命令执行 ](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day8/files/README.md) 
 * [[红日安全]代码审计Day9 - str_replace函数过滤不当](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day9/files/README.md) 
 * [[红日安全]代码审计Day10 - 程序未恰当exit导致的问题](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day10/files/README.md) 
+* [[红日安全]代码审计Day11 - unserialize反序列化漏洞](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day11/files/README.md) 
 
 ## PHP-Audit-Labs题解
 
