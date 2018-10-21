@@ -19,6 +19,7 @@ Part1部分属于项目 **第一阶段** 的内容，本阶段的内容题目素
 * [[红日安全]代码审计Day11 - unserialize反序列化漏洞](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day11/files/README.md) 
 * [[红日安全]代码审计Day12 - 误用htmlentities函数引发的漏洞](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day12/files/README.md) 
 * [[红日安全]代码审计Day13 - 特定场合下addslashes函数的绕过](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day13/files/README.md) 
+* [[红日安全]代码审计Day14 - 从变量覆盖到getshell](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day14/files/README.md) 
 
 ## PHP-Audit-Labs题解
 
