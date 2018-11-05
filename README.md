@@ -28,3 +28,17 @@ Part1部分属于项目 **第一阶段** 的内容，本阶段的内容题目素
 * [ [红日安全]PHP-Audit-Labs题解之Day1-4](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/PHP-Audit-Labs题解/Day1-4/files/README.md) 
 * [ [红日安全]PHP-Audit-Labs题解之Day5-8](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/PHP-Audit-Labs题解/Day5-8/files/README.md) 
 * [ [红日安全]PHP-Audit-Labs题解之Day9-12](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/PHP-Audit-Labs题解/Day9-12/files/README.md) 
+
+## 项目维护
+
+- 小峰（团队[@红日](http://sec-redclub.com/)
+- 七月火 ([博客](https://mochazz.github.io/))
+
+## 免责说明
+
+**请勿用于非法的用途，否则造成的严重后果与本项目无关**
+
+## 转载
+
+转载请注明来自
+[红日安全](https://github.com/hongriSec/PHP-Audit-Labs/)
