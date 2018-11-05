@@ -31,7 +31,7 @@ Part1部分属于项目 **第一阶段** 的内容，本阶段的内容题目素
 
 ## 项目维护
 
-- 小峰（团队[@红日](http://sec-redclub.com/)
+- 小峰（团队[@红日](http://sec-redclub.com/))
 - 七月火 ([博客](https://mochazz.github.io/))
 
 ## 免责说明
@@ -40,5 +40,9 @@ Part1部分属于项目 **第一阶段** 的内容，本阶段的内容题目素
 
 ## 转载
 
-转载请注明来自
-[红日安全](https://github.com/hongriSec/PHP-Audit-Labs/)
+**转载请注明来自
+https://github.com/hongriSec/PHP-Audit-Labs/
+
+## 补充投搞
+
+**欢迎大家补充完善 sec-redclub@qq.com
