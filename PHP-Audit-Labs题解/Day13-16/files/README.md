@@ -1,3 +1,7 @@
+## 前言
+
+大家好，我们是红日安全-代码审计小组。最近我们小组正在做一个PHP代码审计的项目，供大家学习交流，我们给这个项目起了一个名字叫 [ **PHP-Audit-Labs** ](https://github.com/hongriSec/PHP-Audit-Labs) 。在每篇文章的最后，我们都留了一道CTF题目，供大家练习。下面是 **Day9-Day12** 的题解：
+
 ## Day-13题解(By l1nk3r)
 
 题目如下：
@@ -180,3 +184,7 @@ curl -d "url=http://foo@localhost:80@www.freebuf.com/flag.php" "http://题目IP/
 ```
 
 ![24](24.png)
+
+## 总结
+
+我们的项目会慢慢完善，如果大家喜欢可以关注 [ **PHP-Audit-Labs** ](https://github.com/hongriSec/PHP-Audit-Labs) 。大家若是有什么更好的解法，可以在文章底下留言，祝大家玩的愉快！

@@ -22,6 +22,7 @@ Part1部分属于项目 **第一阶段** 的内容，本阶段的内容题目素
 * [[红日安全]代码审计Day14 - 从变量覆盖到getshell](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day14/files/README.md) 
 * [[红日安全]代码审计Day15 - $_SERVER['PHP_SELF']导致的防御失效问题](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day15/files/README.md) 
 * [[红日安全]代码审计Day16 - 深入理解$_REQUESTS数组](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day16/files/README.md) 
+* [[红日安全]代码审计Day17 - Raw MD5 Hash引发的注入](https://github.com/hongriSec/PHP-Audit-Labs/blob/master/Part1/Day17/files/README.md) 
 
 ## PHP-Audit-Labs题解
 
