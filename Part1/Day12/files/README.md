@@ -140,6 +140,16 @@ while($row = mysql_fetch_array($result))
 ?>
 ```
 
+```php
+<?php
+$mysql_server_name="localhost";
+$mysql_database="Day12";    /** 数据库的名称 */
+$mysql_username="Hongri";  /** MySQL数据库用户名 */
+$mysql_password="Hongri";  /** MySQL数据库密码 */
+$conn = mysql_connect($mysql_server_name, $mysql_username,$mysql_password,'utf-8');
+?>
+```
+
 ```sql
 # Host: localhost  (Version: 5.5.53)
 # Date: 2018-08-05 12:55:29

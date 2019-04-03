@@ -12,7 +12,7 @@
 
 **漏洞解析** ：
 
-这一关考察的内容是由正则表达式不严谨导致的任意文件删除漏洞， 导致这一漏洞的原因在 **第21行** ， **preg_replace** 中的 **pattern** 部分 ，该正则表达式并未起到过滤目录路径字符的作用。`[^a-z.-_]`  表示匹配除了 **a** 字符到 **z** 字符、**.** 字符到 **_** 字符之间的所有字符。因此，攻击者还是可以使用点和斜杠符号进行路径穿越，最终删除任意文件，例如使用 **payload** ： `action = delete＆data = ../../ config.php`，便可删除 **config.php** 文件。
+这一关考察的内容是由正则表达式不严谨导致的任意文件删除漏洞， 导致这一漏洞的原因在 **第19行** ， **preg_replace** 中的 **pattern** 部分 ，该正则表达式并未起到过滤目录路径字符的作用。`[^a-z.-_]`  表示匹配除了 **a** 字符到 **z** 字符、**.** 字符到 **_** 字符之间的所有字符。因此，攻击者还是可以使用点和斜杠符号进行路径穿越，最终删除任意文件，例如使用 **payload** ： `action = delete＆data = ../../ config.php`，便可删除 **config.php** 文件。
 
 >[**preg_replace**](http://php.net/manual/zh/function.preg-replace.php)：(PHP 4, PHP 5, PHP 7)
 >
@@ -36,7 +36,7 @@
 
 ![4](4.png)
 
-我们再往上看，即可找到 **$navs** 变量的取值情况。可以看到 **$navs** 变量的是是重数据库 **site_nav** 表中取出的，包含了 **icon** 和 **id** 两个字段，具体代码如下：
+我们再往上看，即可找到 **$navs** 变量的取值情况。可以看到 **$navs** 变量的是从数据库 **site_nav** 表中取出的，包含了 **icon** 和 **id** 两个字段，具体代码如下：
 
 ```php
 $navs = pdo_fetchall("SELECT icon, id FROM ".tablename('site_nav')." WHERE id IN (SELECT nid FROM ".tablename('site_category')." WHERE id = {$id} OR parentid = '$id')", array(), 'id');
