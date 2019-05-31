@@ -38,6 +38,10 @@
 - [[红日安全]ThinkPHP5漏洞分析之SQL注入(四)](/Part2/ThinkPHP5/ThinkPHP5漏洞分析之SQL注入4.md) 
 - [[红日安全]ThinkPHP5漏洞分析之SQL注入(五)](/Part2/ThinkPHP5/ThinkPHP5漏洞分析之SQL注入5.md) 
 - [[红日安全]ThinkPHP5漏洞分析之SQL注入(六)](/Part2/ThinkPHP5/ThinkPHP5漏洞分析之SQL注入6.md) 
+- [[红日安全]ThinkPHP5漏洞分析之文件包含(七)](/Part2/ThinkPHP5/ThinkPHP5漏洞分析之文件包含7.md) 
+- [[红日安全]ThinkPHP5漏洞分析之代码执行(八)](/Part2/ThinkPHP5/ThinkPHP5漏洞分析之代码执行8.md) 
+- [[红日安全]ThinkPHP5漏洞分析之代码执行(九)](/Part2/ThinkPHP5/ThinkPHP5漏洞分析之代码执行9.md) 
+- [[红日安全]ThinkPHP5漏洞分析之代码执行(十)](/Part2/ThinkPHP5/ThinkPHP5漏洞分析之代码执行10.md) 
 
 ## PHP-Audit-Labs题解
 
