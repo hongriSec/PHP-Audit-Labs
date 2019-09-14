@@ -1,0 +1,1 @@
+<?php $flag = "HRCTF{Pr3g_R3plac3_1s_Int3r3sting}";?>

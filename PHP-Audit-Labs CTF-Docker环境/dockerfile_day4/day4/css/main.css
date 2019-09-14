@@ -1,0 +1,37 @@
+body {
+  padding-top: 5rem;
+}
+.container {
+  padding: 3rem 1.5rem;
+}
+
+.page-header{
+	text-align: center;
+}
+
+.number-ball{
+	height: 2em;
+	width: 2em;
+	border-radius: 1em;
+	text-align: center;
+	vertical-align: middle;
+	display: inline-block;
+	line-height: 2em;
+	font-weight: bold;
+	margin-right: 1em;
+}
+
+.number-ball-red {
+	background: red;
+	color: white;
+}
+
+.number-ball-gray{
+	background: gray;
+	color: black;
+}
+
+.user-info {
+	color: white;
+}
+

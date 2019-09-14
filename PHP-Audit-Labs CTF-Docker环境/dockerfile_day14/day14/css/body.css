@@ -1,0 +1,8 @@
+body {
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    color: rgb(34, 34, 34);
+    font-family: Arial, "Microsoft YaHei", 黑体, 宋体, sans-serif;
+    background: url(../image/bg.png) repeat;
+}
+a{text-decoration:none}
